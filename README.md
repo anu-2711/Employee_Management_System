@@ -120,7 +120,7 @@ Frontend runs at → `http://localhost:5173`
 
 ## 👤 Author
 
-**Thatukuluri Anu** — [GitHub](https://github.com/saideepikathota-star)
+**Anu Thatukuluri** — [GitHub](https://github.com/saideepikathota-star)
 
 ---
 
